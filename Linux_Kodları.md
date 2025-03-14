@@ -245,7 +245,7 @@ Belirtilen dizin altındaki boyut kullanım değerlerini gösterir.`ncdu` uygula
 
 ![alt text](Resimler/du-hc.png)
 
-ncdu uygulamasını kurduktan sonra `ncdu ` kodunu çalıştırdığınızda bulunduğunuz dizinin altındaki bütün dizinlerin ve dosyaların boyutunun gösterildiği bir sayfa açılır.
+ncdu uygulamasını kurduktan sonra `ncdu ` komutunu çalıştırdığınızda bulunduğunuz dizinin altındaki bütün dizinlerin ve dosyaların boyutunun gösterildiği bir sayfa açılır.
 
 ![alt text](Resimler/ncdu.png)
 
